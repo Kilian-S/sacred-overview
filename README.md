@@ -80,12 +80,10 @@ and in the air.
 ## Mission Control
 
 Mission Control is the interactive deliverable of the thesis. The theatres, the trained
-policies, and the experimental record are explorable through it.
+policies, and the experimental record are explorable through it. Every surface plays the
+interdiction game, with exact solvers, with trained policies, and with the visitor.
 
 <img src="assets/mission-control/home.png" alt="The Mission Control home page" width="100%">
-
-Every surface of this application plays that game, with
-exact solvers, with trained policies, and with the visitor.
 
 ### Road Operations
 
