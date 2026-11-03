@@ -2,8 +2,8 @@
 
 SACRED is a Soft Actor-Critic, Robust Evolutionary Deep reinforcement learning framework that
 generates resilient, unpredictable routing policies for contested logistics operations. It was
-developed and evaluated in an MSc thesis at Imperial College London (Kilian Schwarz, 2026).
-This repository presents the project and its findings. It does not contain the source code.
+developed and evaluated in an MSc thesis at Imperial College London (Kilian Schwarz, 2026). The MSc
+was awarded with Distinction. This repository presents the project and its findings. It does not contain the source code.
 
 <img src="assets/sacred/reaiming.png" alt="Four consecutive serials in the Königsberg Oblast theatre" width="100%">
 
@@ -192,5 +192,5 @@ not be reproduced without permission.
 
 ## About
 
-Kilian Xhen Schwarz, MSc Transport, Imperial College London. Supervised by Dr Panagiotis
+Kilian Xhen Schwarz, MSc Transport with Distinction, Imperial College London. Supervised by Dr Panagiotis
 Angeloudis. Further projects at [github.com/Kilian-S](https://github.com/Kilian-S).
